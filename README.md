@@ -35,7 +35,7 @@
 
 <h2 id="data_info">Краткая информация о данных:</h2>
 
-- :arrow_up:[Ноутбук проекта: ](PROJECT_1/Project-1._Ноутбук-шаблон.ipynb)
+- :arrow_up:[Ноутбук проекта: ](PROJECT_1/hh_ru_main.ipynb)
   
 - :arrow_up:[Собственно сам датафрейм: ](https://drive.google.com/file/d/1Ixg_5IV1MyV3mtBbwKQ98YK2N-d3wbMZ/view?usp=sharing)
 
